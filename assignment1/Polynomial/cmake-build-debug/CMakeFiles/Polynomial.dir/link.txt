@@ -1,0 +1,3 @@
+"D:\Program\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Polynomial.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\Polynomial.dir/objects.a @CMakeFiles\Polynomial.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Polynomial.dir/objects.a -Wl,--no-whole-archive -o Polynomial.exe -Wl,--out-implib,libPolynomial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Polynomial.dir\linklibs.rsp
