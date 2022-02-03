@@ -1,0 +1,13 @@
+1 siyuan 111
+2 sixi 222
+3 sidong 333
+4 yifu 444
+5 No.9Building 555
+6 library 666
+7 gym 777
+8 StudentCenter 888
+9 HistoryBuilding 999
+10 SchoolMottoTablet 101010
+11 MingLake 111111
+12 WestGate 121212
+13 SouthGate 131313
